@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&family=Cairo&family=Creepster&family=Dongle:wght@300&family=Josefin+Sans:ital,wght@1,500&family=Kanit:wght@300&family=Mochiy+Pop+P+One&family=Outfit:wght@200;300&family=Poppins:wght@400;500;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&family=Rubik+Beastly&family=Sedgwick+Ave&display=swap');
+
+* {
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.chart .title{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    color: magenta;
+  }
